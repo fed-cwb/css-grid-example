@@ -1,0 +1,43 @@
+body {
+}
+
+nav {
+}
+
+nav > a {
+  margin: auto;
+}
+
+aside {
+  text-align: right;
+}
+
+aside > div {
+  padding: 1em;
+  padding-right: 2em;
+}
+.ad {
+  text-align: center;
+  padding: 2em;
+  min-width: 100%;
+}
+
+.ad-1 {
+}
+
+.ad-2 {
+  min-height: 150px;
+}
+
+.ad-3 {
+  min-height: 300px;
+}
+
+main {
+  padding: 2em;
+}
+
+footer {
+  text-align: center;
+  padding: 2em;
+}
